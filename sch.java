@@ -5,4 +5,7 @@ class sch{
 public static method2(){
 
 	}
+public static method3(){
+
+	}
 }
